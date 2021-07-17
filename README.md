@@ -2,7 +2,7 @@
 - 👀 I’m interested in protocol security and formal methods
 - 🌱 I’m currently relearning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 Reach me twitter
+- 📫 Reach me on twitter 
 
 <!---
 bisimilarjames/bisimilarjames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
